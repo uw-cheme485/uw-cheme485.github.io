@@ -50,8 +50,6 @@ We will meet on Tuesdays and Thursdays for part of the quarter (first 6-7 weeks)
 
 The class will be divided in teams of three students (teams of two when this isn't feasible). Each team will perform three experiments. For each experiment, one team member will serve as Task Leader to author the written **Planning Report**, another to author the **Final Report**, and the last one to present the **Oral Report**. These roles will be rotated such that each team member will submit one of each (planning, final, oral) during the quarter.
 
-## 
-
 
 <div class="home">
 
