@@ -1,17 +1,10 @@
 # Site settings
-# title: UW ChemE 436: Chemical Engineering Lab I
-# email: ccurtis7 -- AT -- uw.edu
-# description: "Lectures on statistics, experimental design, instrumentation, lab safety, and report writing; laboratory experiments on fluid mechanics and heat transfer. Emphasis on teaming, experimental planning, procedures, report writing, and oral presentations."
-# url: "http://uw-cheme436.github.io"
-# twitter_username: derchadmeister
-# github_username:  uw-cheme436
-# Site settings
-title: UW DIRECT Courses for Data Scientists
-email: dacb -- AT -- uw.edu
-description: "UW Courses for NSF NRT DIRECT"
-url: "http://uwdirect.github.io"
-twitter_username: dacbUW
-github_username:  UWDIRECT
+title: UW ChemE 436 Chemical Engineering Lab I
+email: ccurtis7 -- AT -- uw.edu
+description: "Lectures on statistics, experimental design, instrumentation, lab safety, and report writing; laboratory experiments on fluid mechanics and heat transfer. Emphasis on teaming, experimental planning, procedures, report writing, and oral presentations."
+url: "http://uw-cheme436.github.io"
+twitter_username: derchadmeister
+github_username:  uw-cheme436
 
 
 # Build settings
