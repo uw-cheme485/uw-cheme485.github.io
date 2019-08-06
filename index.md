@@ -4,7 +4,7 @@ title: Home
 collection: main
 ---
 
-## ChemE 436: Chemical Engineering Lab I
+## Course Description
 
 Lectures on statistics, experimental design, instrumentation, lab safety, and report writing; laboratory experiments on fluid mechanics and heat transfer. Emphasis on teaming, experimental planning, procedures, report writing, and oral presentations.
 
@@ -48,7 +48,9 @@ We will meet on Tuesdays and Thursdays for part of the quarter (first 6-7 weeks)
 
 ## Laboratory
 
-The class will be divided in teams of three students (teams of two when this isn't feasible). Each team will perform three experiments. For each experiment, one team member will serve as Task Leader to author the written **Planning Report**, another to author the **Final Report**, and the last one to present the **Oral Report**. These roles will be rotated such that each team member will submit one of each (planning, final, oral) during the quarter.
+The class will be divided in teams of three students (teams of two when this isn't feasible). Each team will perform three experiments. For each experiment, one team member will serve as Task Leader to author the written **Planning Report**, another to author the **Final Report**, and the last one to present the **Oral Presentation**. These roles will be rotated such that each team member will submit one of each (planning, final, oral) during the quarter.
+
+All data should be submitted as Excel spreadsheets including the source of each measurement, units, formulae for calculations, etc. Data should be sent to the TA at the end of the lab period. Final datasets should be submitted with the Final Report.
 
 
 <div class="home">

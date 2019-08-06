@@ -4,7 +4,7 @@ title: Software
 collection: main
 ---
 
-The courses make use of a number of software packages that students
+<!-- The courses make use of a number of software packages that students
 will install on their computers.  The software needs to be installed
 before you show up for day 1 of class.
 
@@ -50,11 +50,11 @@ Links to the installers for Windows:
 ## Conda & Python
 Python will be the primary programming language used in the courses.  It is recommended
 that Python 3.7 be used.  Even if you have an existing installation of Python, it is
-required that you install Python with Conda.  Conda is a system for installing and 
+required that you install Python with Conda.  Conda is a system for installing and
 otherwise managing python packages and their dependenices.
 We recommend students use Miniconda3.7.  If you have an older conda 3.5 or later install that will probably work fine.  Versions of conda that are based on Python 2 will be very problematic if not useless for the class.
 See [http://conda.pydata.org/miniconda.html](http://conda.pydata.org/miniconda.html)
-for instructions for downloading and installing miniconda. 
+for instructions for downloading and installing miniconda.
 (You should use the instructions for your OS and Python 3.7.)
 Below are detailed instructions after you have installed miniconda to verify it is working as intended:
 
@@ -91,12 +91,11 @@ In the above block of code, the line between “…” is the path where your te
 
 Next, run the Window’s command terminal (cmd) as an administrator. Navigate to where you saved Subl.txt (i.e. C:\Users\Andrew\Desktop). We want to get rid of that .txt extension. Use the copy command as follows:
 C:\Users\…\Desktop>copy Subl.txt Subl
-Now we have Subl with no extension. We now want to move it into our Git Bash bin directory, so that when we type Subl new_text_file.txt in Git Bash, it opens up new_text_file.txt using Sublime or your particular text editor. 
+Now we have Subl with no extension. We now want to move it into our Git Bash bin directory, so that when we type Subl new_text_file.txt in Git Bash, it opens up new_text_file.txt using Sublime or your particular text editor.
 
-First, find the path of where your Git Bash bin directory is. The path is likely C:\Program Files\Git\usr\bin or “C:\Program Files (x86)\Git\bin” depending on if you did the 64 or 32-bit installation. Still in the Windows command terminal (running as an administrator), type the following: 
+First, find the path of where your Git Bash bin directory is. The path is likely C:\Program Files\Git\usr\bin or “C:\Program Files (x86)\Git\bin” depending on if you did the 64 or 32-bit installation. Still in the Windows command terminal (running as an administrator), type the following:
 C:\Users\...\Desktop>move Subl “C:\Program Files\Git\usr\bin”
-If you want, you can combine the above step with the previous step. This has now moved the script Subl to the specified bin directory. Now, in Git Bash you should be able to simply type Subl new_text_file.txt and it will create (if it doesn’t yet exist) or open up new_text_file.txt using Sublime. 
+If you want, you can combine the above step with the previous step. This has now moved the script Subl to the specified bin directory. Now, in Git Bash you should be able to simply type Subl new_text_file.txt and it will create (if it doesn’t yet exist) or open up new_text_file.txt using Sublime.
 
-I have not tested this for any other text editor (i.e. nano/vim/atom/etc), but I imagine a similar script in similar directories should have similar results. 
+I have not tested this for any other text editor (i.e. nano/vim/atom/etc), but I imagine a similar script in similar directories should have similar results.  -->
 ***
-

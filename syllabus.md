@@ -4,6 +4,8 @@ title: Syllabus
 collection: main
 ---
 
+## Course Schedule
+
 | Week | Mo            | Tue           | Th            | Due           |
 | ---- | ------------- | ------------- | ------------- | ------------- |
 | 1    | NA            | Sept 24 <br> Orientation in BNS 035 <br> Form team <br> Receive memo 1    | 26            | PR 1 (26) |
@@ -19,5 +21,21 @@ collection: main
 | 11   | 2 **No lab**      | 3 **No lecture**       | 5 **No lecture**       | ----- |
 
 \* All reports are due electronically by 5 pm on the specified date.
+
+## Lab Assignments
+
+| Team | Experiment 1           | Experiment 2           | Experiment 3           |
+| ---- | ---------------------- | ---------------------- | ---------------------- |
+| A    | Pump Characteristics   | Transport Phenomena    | Air Flow Measurements  |
+| B    | Transport Phenomena    | Air Flow Measurements  | Friction Loss in Pipes |
+| C    | Friction Loss in Pipes | Fin Efficiency         | Orifice                |
+| D    | Fin Efficiency         | Orifice                | Pump Characteristics   |
+| E    | Air Flow Measurements  | Pump Characteristics   | Fin Efficiency         |
+| F    | Orifice                | Friction Loss in Pipes | Transport Phenomena    |
+
+Planning and Final Reports should be submitted to the TA/ Instructor:
+
+**Pump Characteristics**, **Air Flow Measurements**, and **Orifice**: Prof. Chad Curtis (ccurtis7@uw.edu)
+**Fin Efficiency**, **Transport Phenomena**, and **Friction Loss in Pipes**: TBD
 
 {: rules="groups"}
