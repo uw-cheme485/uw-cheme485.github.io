@@ -20,7 +20,9 @@ Lectures on statistics, experimental design, instrumentation, lab safety, and re
 ## Teaching Logistics
 
 - Lectures: Tu/Th 12:30-1:20 (BNS 203)
-- Labs: M 1:30-5:20 (BNS 035)
+- Labs:
+    - (AA) M 1:30-5:20 (BNS 035)
+    - (AB) T 1:30-5:20 (BNS 035)
 
 ## Course Objectives
 
