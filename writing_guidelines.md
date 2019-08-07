@@ -4,15 +4,15 @@ title: Writing Guidelines
 collection: main
 ---
 
-# Planning Reports
+## Planning Reports
 
-## Requirements
+# Requirements
 
 - **Your written Planning Report (PR) must be submitted electronically as a Word doc to the designated instructor 4 days in advance of your experiment** (Thursdays for section AA, Fridays for section AB). If you would like to use an alternate format, please talk to the instructor prior to submission.
 
 - The designated instructor will grade the PR, offering suggestions and corrections using track changes. The TA will inform the team via email one day prior to the lab period if they are ready to start the experiment or if a meeting is needed.
 
-## Organization
+# Organization
 
 - **File name**: Use the format "Labx_session_team_experiment_PR"
 - **Title page**: Include the number and name of the experiment (e.g. Experiment 1, Pump Characterization), lab section and team (e.g. AA_A), and names of team members. Identify the PR Task Leader.
@@ -35,7 +35,7 @@ collection: main
 - **Member contributions**. Clearly state the contribution of each member to the report.
 - **Apendices**. Include sample calculations that show how you will analyze the data, including error analysis. Use an equation editor. Include all required unit conversions. Do your best to use realistic numerical values (a reasonable guess is OK).
 
-## Grading
+# Grading
 
 - The PR is graded out of 100 points; 60% goes to the Task Leader, and 20% goes to each other team member to incentivize teamwork. You will be allowed to use appropriate parts of the PR in the Final Report. Thus, the better the PR, the easier preparation of the Final Report will be. A sample grading sheet can be found [here](https://drive.google.com/open?id=1-S8k7XMPH9IsSfNsV_GFbLkdrAf6DEoi).
 
@@ -71,25 +71,25 @@ collection: main
     - Clarity.
     - Professional tone.
 
-# Final Reports
+## Final Reports
 
-## Requirements
+# Requirements
 
 - **Your written Final Report (FR) must be submitted electronically as a Word file to the designated instructor by midnight on your normal meeting day during the week of oral presentations**. This means Mondays for Section AA and Tuesdays for Section AB.
 
-## Audience
+# Audience
 
 - Plan on writing for a technical manager who already understands the experimental objectives and fundamentals.
 
-## Length
+# Length
 
 - What you believe is appropriate, but use common sense.
 
-## What to Omit
+# What to Omit
 
 - Do not include a letter of transmittal or a table of contents.
 
-## Organization
+# Organization
 
 - **File name**: Use the format "Labx_session_team_experiment_FR". For example, "Lab1_AA_B_PumpCharacteristics_FR". **Supplemental data**. Use the format "Labx_session_team_experiment_Data".
 - **Title page**: This must be a separate page. Include a descriptive title (limit 10 words), author, lab section, team members, date, experiment number (1-3).
@@ -115,7 +115,7 @@ Always include page number(s) when citing books to point the reader to the appro
   - *Sample calculations*. Show how you performed each calculation (including error propagation and statistical analysis). Organize in sections by calculation type, with a descriptive title or a brief paragraph between mathematical steps. Work through the calculation step-by-step for a typical case, first symbolically, then with numerical values (making it clear which raw data and/or literature values you are using). Include dimensions of all numerical values and results.
   - *Supplementary Information (optional)*. Items that support your results but are too detailed or lengthy to include in the main body, such as computer code. Organize by sections with descriptive titles. Each section must contain enough explanation to stand on its own.
 
-## Hints
+# Hints
 
 - **Sample calculations**: we encourage you to use either a spreadsheet (or some alternate, such as Jupyter notebooks) for repetitive calculations, but **you must provide a separate step-by-step procedure in detail for each type of calculation**.
   - As a test, ask yourself: "Could someone else easily use my procedures or my data to reproduce my results?" If not, make your sample calculations clearer.
@@ -134,7 +134,7 @@ Always include page number(s) when citing books to point the reader to the appro
   - Do not just speculate: back up your ideas with order-of-magnitude calculations, error propagation analysis, and/or literature values. Address the assignment you were given.
   - Do not just state the results. Interpret them and put them in perspective for the intended audience.
 
-## Spreadsheets
+# Spreadsheets
 
 - **Organization**:
   - Keep raw data (actual readings you obtained) separate from things you calculated based on them.
@@ -146,7 +146,7 @@ Always include page number(s) when citing books to point the reader to the appro
   - Insert comments to provide additional explanation of unusual features. Insert extra text in cells to help the reader understand what you are doing.
   - **Control the number of significant figures displayed**. This is especially important for measured values, but also for calculated results.
 
-## Style and Grammar
+# Style and Grammar
 
 - **Tense**:
   - Use past tense to describe things that you did or that happened. For instance: "The measured pressure drop was 2 kPa. Consequently, we decreased the flow rate."
@@ -183,13 +183,13 @@ Always include page number(s) when citing books to point the reader to the appro
     - Write small integers (zero to nine) as words (e.g. "three repetitions", not "3 repetitions"). Write all others as numbers, unless they begin a sentence.
     - Exception: write the small integers as numbers when they are followed by a unit of measurement, or when many numbers appear in one paragraph.
 
-## Grading
+# Grading
 
 The FR is graded on 100 points; 80% of the grade goes to the Task Leader and 30% of the grade to each other team member to incentivize teamwork. It is acceptable to "recycle" appropriate parts of the PR in the FR. A sample grade sheet is available [here](https://drive.google.com/open?id=1h-O_dcOqm0Km5ma1iIPK_Wtypmj2gFeM).
 
-# Oral Presentation
+## Oral Presentation
 
-## Requirements
+# Requirements
 
 - **The Oral Presentation (OP) Task Leader will be the speaker and is responsible for bringing a laptop loaded with the presentation and ready for plug-in on Oral Day.**
 - The OP will be evaluated on the basis of communication and technical results. The grading sheet is provided [here]().
@@ -197,7 +197,7 @@ The FR is graded on 100 points; 80% of the grade goes to the Task Leader and 30%
 - Be prepared to answer questions on technical aspects for up to 5 additional minutes.
 - **Submit your OP as a ppt file electronically to the designated instructor by midnight on Oral Day.**
 
-## Organization
+# Organization
 
 - **File name**. Use the format "Labx_session_team_experiment_OP". For example, "Lab1_AA_B_PumpCharacteristics_OP".
 - Imagine that you are presenting your results to company management and orient your talk accordingly. Here is a typical organization for such a talk:
@@ -208,7 +208,7 @@ The FR is graded on 100 points; 80% of the grade goes to the Task Leader and 30%
   5. End with strong, specific conclusions and recommendations (supported by the previous discussion). Motivate the audience to take the next step whatever that may be.
   6. It can be helpful to prepare extra slides to deal with questions on technical details.
 
-## Content
+# Content
 
 - It is better to cover a few key points well than too many points poorly. Do not rush to cover every possible aspect of your project.
 - Time your talk to be on the short side so you're confident you will finish on time.
@@ -217,13 +217,13 @@ The FR is graded on 100 points; 80% of the grade goes to the Task Leader and 30%
 - End with concrete recommendations that are supported by the results.
 - Make your ending strong with a call for further action (not "Well, I guess that's all").
 
-## Visual Aids
+# Visual Aids
 
 - Include a title slide that introduces you and your team members.
 - Use the appropriate number of slides. Most presenters spend 1-2 minutes per slide. This means that you should have no more than 10-15 slides for a 10-minute talk (not including the title slide). If you show a visual for less than 30 seconds you probably should not include it at all. If it takes more than 2 minutes, it's probably too detailed.
 
 
-## Delivery
+# Delivery
 
 - **Practice**. There is no substitute. Deliver your speech out loud and use a stopwatch to record the length of time your presentation takes. This will help you master awkward phrasing that is essential for proper timing.
 - Speak clearly and with volume adequate for listeners at the back of the room.
@@ -236,7 +236,7 @@ The FR is graded on 100 points; 80% of the grade goes to the Task Leader and 30%
 - If unsure of a question, rephrase it and ask for confirmation before answering (This is a good technique in large rooms when some of the audience may not have heard the question).
 - Dress as you usually would for class.
 
-## Grading
+# Grading
 
 - The OR is graded out of 100 points. 60% of the grade goes to the Task Leader; other team members do not collect any points.
 - A sample grade sheet is available [here](https://drive.google.com/file/d/1qZ6SqMlhKvKlwj1yvew26Krd9utOnRFx/view?usp=sharing).
