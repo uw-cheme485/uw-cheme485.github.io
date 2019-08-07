@@ -1,8 +1,8 @@
----
+<!-- ---
 layout: page
 title: Reading
 collection: main
----
+--- -->
 
 <!-- In addition to the resources below, the course also has a wiki and question / answer forum as a GitHub wiki and issues pages.
 * [wiki](https://github.com/UWDIRECT/wiki/wiki)
