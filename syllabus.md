@@ -20,7 +20,7 @@ collection: main
 | 10   | 25 Oral Presentations <br> 1:30-3:00 BNS 203 | 26       | 28 Thanksgiving | FR 3 (25) <br> OP 3 (25) |
 | 11   | 2 **No lab**      | 3 **No lecture**       | 5 **No lecture**       | ----- |
 
-\* All reports are due electronically by 5 pm on the specified date.
+\* All reports are due electronically by midnight on the specified date.
 
 ## Lab Assignments
 
