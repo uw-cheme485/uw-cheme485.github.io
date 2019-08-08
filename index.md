@@ -23,12 +23,11 @@ Applications of mathematics to problems in chemical engineering; vector calculus
 
 ## Course Objectives
 
-1.
-2.
-3.
-4.
-5.
-6.
+1. Express physical phenomena (e.g. heat, mass, momentum transfer) as mathematical models.
+2. Classify ordinary and partial differential equations (e.g. homogeneity, order, and linearity).
+3. Visualize behavior of ordinary and partial differential equations without performing a complete solution.
+4. Implement analytical solutions of ordinary and partial differential equations using both exact and approximate methods.
+5. Implement numerical solutions of ordinary and partial differential equations using the finite difference method.
 
 ## Software Requirements
 
