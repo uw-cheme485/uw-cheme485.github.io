@@ -1,32 +1,25 @@
-<!-- ---
+---
 layout: page
 title: Reading
 collection: main
---- -->
+---
 
-<!-- In addition to the resources below, the course also has a wiki and question / answer forum as a GitHub wiki and issues pages.
-* [wiki](https://github.com/UWDIRECT/wiki/wiki)
-* [question/answer/issue](https://github.com/UWDIRECT/wiki/issues)
+# Textbook
 
-## Machine Learning
-* Repository of free or open-source texts on machine learning <a href="https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md" target="_blank"> link</a>
-* Bias-Variance Trade-off explained <a href="http://scott.fortmann-roe.com/docs/BiasVariance.html">link</a>
+The class follows Varma and Morbidelli's **Mathematical Methods in Chemical Engineering** (2005). An online version is available to students through the [University library system](https://alliance-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=CP71174540470001451&context=L&vid=UW&lang=en_US&search_scope=all&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,morbidelli%20chemical%20engineering). A topical breakdown is as follows:
 
-## Statistical Learning
-* Gareth James et al. Statistical Learning Book <a href="http://www-bcf.usc.edu/%7Egareth/ISL/" target="_blank"> link</a>    
+1. Matrices and Their Application
+2. First-Order Non-Linear Ordinary Differential Equations and Stability Theory
+3. Theory of Linear Ordinary Differential Equations
+4. Series Solutions and Special Functions
+5. Fundamentals of Partial Differential Equations
+6. First-Order Partial Differential Equations
+7. Generalized Fourier Transform Methods for Linear Partial Differential Equations
+8. LaPlace Transform
+9. Perturbation Methods
 
-## Python
-* Python Data Science Handbook <a href="https://jakevdp.github.io/PythonDataScienceHandbook/"> link </a>
+A rough break-down of the quarter will be matrices and ODEs prior to the first exam, first- and second-order PDEs prior to the second exam, and LaPlace and perturbation methods for PDEs prior to the final exam.
 
-## Markdown
-* Markdown Cheat Sheet - A Simple Visual Guide <a href="https://beegit.com/markdown-cheat-sheet"> link </a>
-* General Markdown tutorial <a href="http://commonmark.org/help/tutorial/"> link </a>
+# Additional Materials
 
-## Editors
-* Setting up different editorr <a href="http://swcarpentry.github.io/git-novice/02-setup/"> link </a>
-
-## Datasets
-* HCEPDB Dataset <a href="http://faculty.washington.edu/dacb/HCEPDB_moldata.zip"> link </a>
-
-## Other sources...
-* Machine learning in materials science: recent progress and emerging applications <a href="https://ws680.nist.gov/publication/get_pdf.cfm?pub_id=915933"> link </a> -->
+A useful resource for several topics covered in the course are [Paul's Online Notes](http://tutorial.math.lamar.edu/Classes/DE/DE.aspx). They do **not** include all course material, so do not solely rely on them.

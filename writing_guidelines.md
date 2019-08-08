@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: Writing Guidelines
 collection: main
@@ -239,4 +239,4 @@ The FR is graded on 100 points; 80% of the grade goes to the Task Leader and 30%
 # Grading
 
 - The OR is graded out of 100 points. 60% of the grade goes to the Task Leader; other team members do not collect any points.
-- A sample grade sheet is available [here](https://drive.google.com/file/d/1qZ6SqMlhKvKlwj1yvew26Krd9utOnRFx/view?usp=sharing).
+- A sample grade sheet is available [here](https://drive.google.com/file/d/1qZ6SqMlhKvKlwj1yvew26Krd9utOnRFx/view?usp=sharing). -->
