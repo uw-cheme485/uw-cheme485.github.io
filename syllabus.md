@@ -18,7 +18,7 @@ collection: main
 | 8    | Veteran's Day       | 13 TBD      | Review       | Exam 2       | HW 8 |
 | 9    | 18 Review Exam | 20 PDEs (LaPlace) | 21 PDEs (LaPlace) | 22 TBD      | HW 9 |
 | 10   | 25 Regular Perturbation Solutions | 27 Method of Strained Coordinates | Thanksgiving | Thanksgiving | HW 10 |
-| 11   | 2 Boundary Layer Theory | 4 TBD | 5 Review | 6 **No Class** | HW 11 |
+| 11   | 2 Boundary Layer Theory | 4 WKB Method | 5 Review | 6 **No Class** | HW 11 |
 
 \* All reports are due electronically by midnight on the specified date.
 
