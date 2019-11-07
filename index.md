@@ -6,12 +6,11 @@ collection: main
 
 ## Course Description
 
-Applications of mathematics to problems in chemical engineering; vector calculus; properties and methods of solution of first and second order partial differential equations; similarity transforms, separation of variables, Laplace and Fourier transforms.
+Applied economics in chemical engineering design and operations; measures of profitability; capital and operating cost estimates; introduction to design and design strategies.
 
 ## Instructors
 
 - Prof. Chad Curtis (ccurtis7@uw.edu)
-- Prof. Fran&#231;ois Baneyx (baneyx@uw.edu)
 
 ## Teaching Assistants
 
@@ -19,21 +18,21 @@ Applications of mathematics to problems in chemical engineering; vector calculus
 
 ## Teaching Logistics
 
-- Lectures: M/W/Th/F 11:30-12:20 (BNS 203)
+- Lectures: M/W/F 12:30-1:20 (MOR 230)
+
+- Quiz Sections:
+  * AA: T 11:30-12:20 (LOW 216)
+  * AB: T 12:30-1:20 (MOR 225)
 
 ## Course Objectives
 
-1. Express physical phenomena (e.g. heat, mass, momentum transfer) as mathematical models.
-2. Classify ordinary and partial differential equations (e.g. homogeneity, order, and linearity).
-3. Visualize behavior of ordinary and partial differential equations without performing a complete solution.
-4. Implement analytical solutions of ordinary and partial differential equations using both exact and approximate methods.
-5. Implement numerical solutions of ordinary and partial differential equations using the finite difference method.
-
-## Software Requirements
-
-As homeworks will be submitted in the form of Jupyter notebooks, students will need to have Python and a package manager available on their computers. The best instructions for proper installation are found on the [Software Carpentry website](https://uwescience.github.io/2019-01-15-uw/) (scroll down to the **Setup** section). Please have this installed prior to the first day of class. We will cover the basics of Python, Markdown, and GitHub the first week of class to ensure you can properly submit homeworks.
-
-
+1. Understand, interpret, synthesize, and create chemical processes.
+2. Interpret design diagrams, including block flow diagrams, process flow diagrams, and piping and instrumentation diagrams.
+3. Determine operating conditions of different equipment and their impact on the economics of the design.
+4. Evaluate economic impact of new (or existing) chemical process taking into account both capital and operating costs.
+5. Perform simulations of chemical processes using AspenPlus to design and optimize process conditions.
+6. Understand ethical and legal issues at stake in the design process.
+7. Understand safety issues inherent in plant design and how to account for them during the design process.
 
 <div class="home">
 

@@ -1,10 +1,10 @@
 # Site settings
-title: UW ChemE 512 Methods of Engineering Analysis
+title: UW ChemE 485 Process Design I
 email: ccurtis7 -- AT -- uw.edu
-description: "Applications of mathematics to problems in chemical engineering; vector calculus; properties and methods of solution of first and second order partial differential equations; similarity transforms, separation of variables, LaPlace and Fourier transforms."
-url: "http://uw-cheme512.github.io"
+description: "Applied economics in chemical engineering design and operations; measures of profitability; capital and operating cost estimates; introduction to design and design strategies."
+url: "http://uw-cheme485.github.io"
 twitter_username: derchadmeister
-github_username:  uw-cheme512
+github_username:  uw-cheme485
 
 
 # Build settings
