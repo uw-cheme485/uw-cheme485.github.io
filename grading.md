@@ -20,9 +20,9 @@ Final grades are broken down as follows:
 
 ## Homework
 
-Homeworks will submitted via Github classroom in the form of a Jupyter notebook within a GitHub repository. All written work should be submitted in the repo README.md file using Markdown and Latex (see Markdown introduction [here](https://www.markdownguide.org/basic-syntax/) and Latex introduction [here](https://www.overleaf.com/learn/latex/Mathematical_expressions)). Accompanying data files such as Excel files and Aspen files should also be uploaded with the text file.
+Homeworks will submitted via Github classroom in the form of a GitHub repository. All written work should be submitted in the repo README.md file using Markdown and Latex (see Markdown introduction [here](https://www.markdownguide.org/basic-syntax/) and Latex introduction [here](https://www.overleaf.com/learn/latex/Mathematical_expressions)). Accompanying data files such as Excel files and Aspen files should also be uploaded with the text file.
 
-Please see instructions for installing Git [here](https://uwescience.github.io/2019-10-01-uw/). See a video tutorial for submitting homework assignments with Git here.
+Please see instructions for installing Git [here](https://uwescience.github.io/2019-10-01-uw/). See a video tutorial for submitting homework assignments with Git [here](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=847f11be-1154-4c41-9d10-aaff0122ebd7).
 
 ## Late Work
 
