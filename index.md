@@ -17,7 +17,7 @@ Applied economics in chemical engineering design and operations; measures of pro
 - AA: Griffin Ruehl (gruehl@uw.edu)
   * Office hours: TBD
 
-- AB: John Rumptz (TBD)
+- AB: Jack Rumptz (jrumptz@uw.edu)
   * Office hours: TBD
 
 ## Teaching Logistics
