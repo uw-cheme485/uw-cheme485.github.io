@@ -156,6 +156,8 @@ Content similar to that described in the written report section.
 
 Remind your audience of what you told them, usually as a list or outline. Remember to re-state the bottom line!
 
-# Examples
+# Examples and Grading Rubric
 
 While I have no example reports that follow the above guidelines to the letter, you may find some very well done example design reports available through the University of Pennsylvania [here](https://repository.upenn.edu/cbe_sdr/112/).
+
+A grading rubric for the final project can be found [here](https://github.com/uw-cheme485/uw-cheme485.github.io/raw/master/rubrics/485_Final_Project_Rubric.doc).
