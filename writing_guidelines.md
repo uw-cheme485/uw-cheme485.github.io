@@ -12,7 +12,7 @@ Planning reports must include:
 2. Hand-written block flow diagram of the process.
 3. Initial data regarding the reaction kinetics necessary for simulations
 4. A suggested thermodynamics package and any extra information that needs to be gathered for the simulation
-5. An order of magnitude estimate of the design cost. 
+5. An order of magnitude estimate of the design cost.
 
 # Final Reports
 
@@ -155,3 +155,7 @@ Content similar to that described in the written report section.
 ## Conclusions and Recommendations
 
 Remind your audience of what you told them, usually as a list or outline. Remember to re-state the bottom line!
+
+# Examples
+
+While I have no example reports that follow the above guidelines to the letter, you may find some very well done example design reports available through the University of Pennsylvania [here](https://repository.upenn.edu/cbe_sdr/112/).

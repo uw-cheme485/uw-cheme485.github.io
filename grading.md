@@ -24,6 +24,15 @@ Homeworks will either be submitted via Github classroom in the form of a GitHub 
 
 Please see instructions for installing Git [here](https://uwescience.github.io/2019-10-01-uw/). See a video tutorial for submitting homework assignments with Git [here](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=847f11be-1154-4c41-9d10-aaff0122ebd7).
 
+Students will be able to resubmit homeworks to be regraded. All homeworks are due at midnight on the day specified.
+
+1. Homework due: Wednesday the week after it has been assigned.
+2. Homework feedback: Monday after it has been turned in.
+3. Homework regrades due: the following Monday
+4. Homework regrade feedback: the following Friday
+
+Homeworks will be graded by either of the TAs, regardless of section, as determined randomly. This will ensure fair grading across the board.
+
 ## Pedagogy Research
 
 This year, we will be conducting research on the use of Github Classroom as a tool for homework submission and project management. Each section will use a different platform for homework submission: Section AA will use GitHub Classroom, and Section AB will use the UW Canvas system. At the end of the course, the course evaluations will include questions to assess:
@@ -54,8 +63,21 @@ With the exception of pre-arrangement with the instructor in extenuating circums
 
 ## Projects
 
-Class projects will be completed in teams of 3 (with 1-2 teams of 4 if it doesn't split evenly). Teams will be assigned randomly. Each team will select a project from one of the following sources:
+Class projects will be completed in teams of 3 (with 1-2 teams of 4 if it doesn't split evenly). Teams will be assigned randomly. This is done for a reason, as there are advantages and disadvantages with different team formation methods (see this summary [here](http://facultyguidetoteamwork.umn.edu/how-do-i-form-successful-teams)). I prefer random assignment because:
+
+1. Randomized teams are more likely to give diverse teams, a key element to key success.
+2. Students will work with students they may not know as well, which will be a given in the work force.
+3. It removes bias that other methods can't address (e.g. trying to make "balanced" teams based on student ability or temperament. The worst I've heard is assigning groups based on GPA).
+4. It's just easier.
+
+If you foresee any problems with your team after team assignment, please come see me.
+
+Each team will select a project from one of the following sources:
 
 1. Appendix C of Turton
 2. Additional projects found [here](https://richardturton.faculty.wvu.edu/projects)
 3. Past problems from the [AIChE design competition](https://www.aiche.org/community/students/student-design-competition/past-problems)
+
+Final projects will be graded as a group effort. Students will be able to give input on team member contributions through a team evaluation survey. Team members will be given 100 points to allot among all team members e.g. if you think all team members contributed equally and you are in a team of 3, you would give each team member 33.3 points.
+
+In order to ensure consistent grading of final projects, the teaching team (all TAs and the myself) will grade all reports together as a group.
