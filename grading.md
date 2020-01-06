@@ -65,7 +65,7 @@ With the exception of pre-arrangement with the instructor in extenuating circums
 
 Class projects will be completed in teams of 3 (with 1-2 teams of 4 if it doesn't split evenly). Teams will be assigned randomly. This is done for a reason, as there are advantages and disadvantages with different team formation methods (see this summary [here](http://facultyguidetoteamwork.umn.edu/how-do-i-form-successful-teams)). I prefer random assignment because:
 
-1. Randomized teams are more likely to give diverse teams, a key element to key success.
+1. Randomized teams are more likely to give diverse teams, a key element to team success.
 2. Students will work with students they may not know as well, which will be a given in the work force.
 3. It removes bias that other methods can't address (e.g. trying to make "balanced" teams based on student ability or temperament. The worst I've heard is assigning groups based on GPA).
 4. It's just easier.
