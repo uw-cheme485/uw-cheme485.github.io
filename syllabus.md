@@ -18,5 +18,3 @@ collection: main
 | 8    | 24    | Safety <br> **HW5R Due**         | Environment <br> **HW6 Due**    | Ethics          | Aspen       | -------- | PR       |
 | 9    | Mar 2 | TBD             | Guest Lecture   | Guest Lecture   | Aspen       | -------- | PFD      |
 | 10   | 9     | Presentations <br> **HW6R Due**  | Presentations   | Presentations   | NA          | -------- | FR       |
-
-\* All homework assignments and reports are due Sunday at midnight.
