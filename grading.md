@@ -33,6 +33,8 @@ Students will be able to resubmit homeworks to be regraded. All homeworks are du
 
 Homeworks will be graded by either of the TAs, regardless of section, as determined randomly. This will ensure fair grading across the board.
 
+*Note*: As this class will have specific software requirements, please let me know if this will be an issue for you. Note that all students have access to Aspen and Visio through their [RemoteApp cluster](https://www.engr.washington.edu/mycoe/computing/studentresources/remoteapp.html). The chemical engineering department also has computers available to students on the 1st floor computer lab. While Git isn't currently installed on these machines, Our computing and technology manager, Jessie Chiem (jchiem@uw.edu) can arrange to have Git installed manually on a few machines if needed. 
+
 ## Pedagogy Research
 
 This year, we will be conducting research on the use of Github Classroom as a tool for homework submission and project management. Each section will use a different platform for homework submission: Section AA will use GitHub Classroom, and Section AB will use the UW Canvas system. At the end of the course, the course evaluations will include questions to assess:
