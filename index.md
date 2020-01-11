@@ -4,7 +4,7 @@ title: Home
 collection: main
 ---
 
-## Course Description
+# Course Description
 
 Applied economics in chemical engineering design and operations; measures of profitability; capital and operating cost estimates; introduction to design and design strategies.
 
@@ -24,6 +24,8 @@ Applied economics in chemical engineering design and operations; measures of pro
 
 - Lectures: M/W/F 12:30-1:20 (MOR 230)
 
+**Test italics**
+
 - Quiz Sections:
   * AA: T 11:30-12:20 (LOW 216)
   * AB: T 12:30-1:20 (MOR 225)
@@ -37,6 +39,8 @@ Applied economics in chemical engineering design and operations; measures of pro
 5. Perform simulations of chemical processes using AspenPlus to design and optimize process conditions.
 6. Understand ethical and legal issues at stake in the design process.
 7. Understand safety issues inherent in plant design and how to account for them during the design process.
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=2&space;&plus;&space;2&space;=&space;4" target="_blank"><img src="https://latex.codecogs.com/gif.latex?2&space;&plus;&space;2&space;=&space;4" title="2 + 2 = 4" /></a>
 
 ## Conduct
 
