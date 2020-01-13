@@ -11,6 +11,7 @@ Applied economics in chemical engineering design and operations; measures of pro
 ## Instructors
 
 - Prof. Chad Curtis (ccurtis7@uw.edu)
+  * Office hours: By appointment (BNS 263)
 
 ## Teaching Assistants
 
