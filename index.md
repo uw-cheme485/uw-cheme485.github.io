@@ -16,10 +16,10 @@ Applied economics in chemical engineering design and operations; measures of pro
 ## Teaching Assistants
 
 - AA: Griffin Ruehl (gruehl@uw.edu)
-  * Office hours: TBD
+  * Office hours: M 3:00-4:00 (tentatively Blue room 2nd floor BNS)
 
 - AB: Jack Rumptz (jrumptz@uw.edu)
-  * Office hours: TBD
+  * Office hours: W 10:00-11:00 (tentatively Blue room 2nd floor BNS)
 
 ## Teaching Logistics
 
