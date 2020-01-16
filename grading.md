@@ -33,7 +33,7 @@ Students will be able to resubmit homeworks to be regraded. All homeworks are du
 
 Homeworks will be graded by either of the TAs, regardless of section, as determined randomly. This will ensure fair grading across the board.
 
-*Note*: As this class will have specific software requirements, please let me know if this will be an issue for you. Note that all students have access to Aspen and Visio through their [RemoteApp cluster](https://www.engr.washington.edu/mycoe/computing/studentresources/remoteapp.html). The chemical engineering department also has computers available to students on the 1st floor computer lab. Git and Bash should already be accessible on all MacOS platforms on department machines, as it is built into the operating system. Please contact our computing and technology manager, Jessie Chiem (jchiem@uw.edu) for any questions or assistance. 
+*Note*: As this class will have specific software requirements, please let me know if this will be an issue for you. Note that all students have access to Aspen and Visio through their [RemoteApp cluster](https://www.engr.washington.edu/mycoe/computing/studentresources/remoteapp.html). The chemical engineering department also has computers available to students on the 1st floor computer lab. Git and Bash should already be accessible on all MacOS platforms on department machines, as it is built into the operating system. Please contact our computing and technology manager, Jessie Chiem (jchiem@uw.edu) for any questions or assistance.
 
 ## Pedagogy Research
 
@@ -79,6 +79,8 @@ Each team will select a project from one of the following sources:
 1. Appendix C of Turton
 2. Additional projects found [here](https://richardturton.faculty.wvu.edu/projects)
 3. Past problems from the [AIChE design competition](https://www.aiche.org/community/students/student-design-competition/past-problems)
+
+Example designs are provided in the CD accompanying the textbook, [Appendix B](https://github.com/uw-cheme485/uw-cheme485.github.io/raw/master/lectures/example_designs.pdf) (also used in your homeworks).
 
 Final projects will be graded as a group effort. Students will be able to give input on team member contributions through a team evaluation survey. Team members will be given 100 points to allot among all team members e.g. if you think all team members contributed equally and you are in a team of 3, you would give each team member 33.3 points.
 
