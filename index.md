@@ -19,7 +19,7 @@ Applied economics in chemical engineering design and operations; measures of pro
   * Office hours: M 3:00-4:00 (BNS 352)
 
 - AB: Jack Rumptz (jrumptz@uw.edu)
-  * Office hours: W 10:00-11:00 (Blue room 2nd floor BNS)
+  * Office hours: W 10:30-11:30 (Blue room 2nd floor BNS)
 
 ## Teaching Logistics
 
