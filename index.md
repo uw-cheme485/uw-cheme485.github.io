@@ -41,8 +41,6 @@ Applied economics in chemical engineering design and operations; measures of pro
 6. Understand ethical and legal issues at stake in the design process.
 7. Understand safety issues inherent in plant design and how to account for them during the design process.
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=2&space;&plus;&space;2&space;=&space;4" target="_blank"><img src="https://latex.codecogs.com/gif.latex?2&space;&plus;&space;2&space;=&space;4" title="2 + 2 = 4" /></a>
-
 ## Conduct
 
 The University of Washington Student Conduct Code (WAC 478-121) defines prohibited academic and behavioral conduct and describes how the University holds students accountable by students as they pursue their academic goals. In particular, please review the definitions of academic misconduct found [here](http://www.washington.edu/admin/rules/policies/SGP/SPCH209.html#7) and [here](http://www.washington.edu/admin/rules/policies/SGP/SPCH210.html#7). In the context of ChemE 485, it is expected that all work, homework and otherwise, is the students' own work. Students should also not use unauthorized materials during exams. Concerns about these or other behaviors prohibited by the Student Conduct Code will be referred for investigation and adjudication by the College of Engineering.
