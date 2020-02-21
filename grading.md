@@ -76,7 +76,7 @@ If you foresee any problems with your team after team assignment, please come se
 
 Each team will select a project from one of the following sources:
 
-1. Appendix C of Turton
+1. [Appendix C](https://drive.google.com/file/d/1Hg4YOP1aOwmZDUV_QaOpPrDabQRt9DFu/view?usp=sharing) of Turton
 2. Additional projects found [here](https://richardturton.faculty.wvu.edu/projects)
 3. Past problems from the [AIChE design competition](https://www.aiche.org/community/students/student-design-competition/past-problems)
 
