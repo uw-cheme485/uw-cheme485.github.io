@@ -6,13 +6,17 @@ collection: main
 
 # Planning Reports
 
-Planning reports must include:
+Planning reports are an informal check to make sure students are making adequate progress to finish their final reports. This is our attempt to reduce "busy work" of writing multiple reports. Planning reports will be graded on completion of each component. We will contant teams if we are worried the materials provided don't reflect adequate progress. Planning reports must include:
 
-1. A short abstract describing the process.
-2. Hand-written block flow diagram of the process.
-3. Initial data regarding the reaction kinetics necessary for simulations
-4. A suggested thermodynamics package and any extra information that needs to be gathered for the simulation
-5. An order of magnitude estimate of the design cost.
+1. **A short abstract**. An overview of the process, what the targets are specified in the problem statement, identification of inputs and outputs, and general descriptions of the major sections of the process. This doesn't need to be more than half a page in length.
+2. **Block-flow Diagram**. This can be hand-written and doesn't need to be made in Visio. No stream tables or equipment tables need be present, but an overall mass balance should be provided.
+3. **Initial kinetics data**. These are the inputs necessary for a L2 reactor block in Aspen (reaction rates and activation energies). Most projects that are provided will include this reaction data, but if not, you may need to search the patent literature to find these.
+4. **A thermodynamics package**. Based on the information discussed in class on package selection, students should pick a package appropriate for their system and provide the rationale for doing so.
+5. An order of magnitude **cost estimate** of the design cost. Order of magnitude estimates of capital costs can be performed if you have information on an existing plant that uses a similar process, but that won't be the case for most projects. Instead, ignore capital costs and just examine the inputs (raw materials) and outputs (products) on an annual estimate to check that there is a potential for a profit before taking into account other costs.
+
+## PFD
+
+The next checkpoint for the projects will be a base case level 2 PFD made in Visio. This should include stream tables and an equipment summary. Students should also provide their simulation files and a screen shot of the process and the stream table to verify that they agree with the PFD. The simulation should converge without errors. It should also be noted that some "imaginary" streams or elements on the simulation should **not** be present on the PFD, such as splitters and mixers. As a level 2 simulation, distillation columns should use rigorous methods and stoichiometric reactors should be replaced with ones based on reaction kinetics. 
 
 # Final Reports
 
