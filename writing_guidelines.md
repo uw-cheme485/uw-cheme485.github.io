@@ -16,7 +16,7 @@ Planning reports are an informal check to make sure students are making adequate
 
 ## PFD
 
-The next checkpoint for the projects will be a base case level 2 PFD made in Visio. This should include stream tables and an equipment summary. Students should also provide their simulation files and a screen shot of the process and the stream table to verify that they agree with the PFD. The simulation should converge without errors. It should also be noted that some "imaginary" streams or elements on the simulation should **not** be present on the PFD, such as splitters and mixers. As a level 2 simulation, distillation columns should use rigorous methods and stoichiometric reactors should be replaced with ones based on reaction kinetics. 
+The next checkpoint for the projects will be a base case level 2 PFD made in Visio. This should include stream tables and an equipment summary. Students should also provide their simulation files and a screen shot of the process and the stream table to verify that they agree with the PFD. The simulation should converge without errors. It should also be noted that some "imaginary" streams or elements on the simulation should **not** be present on the PFD, such as splitters and mixers. As a level 2 simulation, distillation columns should use rigorous methods and stoichiometric reactors should be replaced with ones based on reaction kinetics.
 
 # Final Reports
 
@@ -164,4 +164,6 @@ Remind your audience of what you told them, usually as a list or outline. Rememb
 
 While I have no example reports that follow the above guidelines to the letter, you may find some very well done example design reports available through the University of Pennsylvania [here](https://repository.upenn.edu/cbe_sdr/112/).
 
-A grading rubric for the final project can be found [here](https://github.com/uw-cheme485/uw-cheme485.github.io/raw/master/rubrics/485_Final_Project_Rubric.doc).
+A grading rubric for the final project can be found [here](https://github.com/uw-cheme485/uw-cheme485.github.io/raw/master/rubrics/485_Final_Project_Rubric_abb.doc).
+
+A grading rubric for the final presentation can be found [here](https://github.com/uw-cheme485/uw-cheme485.github.io/raw/master/rubrics/485_Presentation_Rubric_abb.doc)
