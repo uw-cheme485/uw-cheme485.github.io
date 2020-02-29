@@ -16,7 +16,7 @@ collection: main
 | 6    | 10    | [Optimization](https://github.com/uw-cheme485/uw-cheme485.github.io/raw/master/lectures/C14_Optimization.pdf) <br> **HW3R Due**   | Review <br> **HW 5 Due**         | Mid-Term        | Aspen       | T14      |          |
 | 7    | 17    | Pres. Day <br> **HW4R Due**      | Team Selection  | In-Class Time   | Visio       | -------- | [HW 6](https://classroom.github.com/a/igxERhIC)     | [HW 6](https://canvas.uw.edu/courses/1353698/assignments/5107728) |
 | 8    | 24    | [Safety](https://github.com/uw-cheme485/uw-cheme485.github.io/raw/master/lectures/C26_Safety.pdf) <br> **HW5R Due**         | Guest Speaker: <br> Trevor Thomas <br> **HW6 Due** <br> **PR due**   | Ethics          | Aspen       | -------- | PR       |
-| 9    | Mar 2 | In-Class Time  | Environment <br> **PFD due**  | In-Class Time   | Aspen       | -------- | PFD      |
+| 9    | Mar 2 | Ethics/Environment  | In-class time <br> **PFD due**  | In-Class Time   | Aspen       | -------- | PFD      |
 | 10   | 9     | Presentations <br> **HW6R Due**  | Presentations   | Presentations   | NA          | -------- | FR       |
 
 **Final reports are due Wednesday March 18**
